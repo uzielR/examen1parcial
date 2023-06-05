@@ -16,13 +16,12 @@
      height: 10px;
      margin-bottom: 30px;
      font-size: 40px;
-     
-  }
+ }
    
   body {
-    font-family: arial;
+    font-family: verdana;
     background-image: url('login.jpg');
-    color: #ffffff;
+   
   }
 
   
@@ -35,12 +34,13 @@
     margin-top: 180px;
     box-shadow: 3px 1px 7px #000000;
     padding: 20px 30px;
-    border-top: 4px solid #017bab;
+    border-top: 4px solid #ff0000;
     color: rgb(195, 252, 255);
+    color: #ffffff;
   }
   
   .form-NUEVO h5 {
-    margin: 0;
+    margin: 110;
     text-align: center;
     height: 40px;
     margin-bottom: 30px;
@@ -52,23 +52,15 @@
     width: 100%;
     border: 1px solid #19191a;
     margin-bottom: 15px;
-    padding: 11px 10px;
+    padding: 11px 14px;
     background: #3e3d3d;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: bold;
+    color: #ffffff;
+    font-family: Verdana;
   }
  
   
-  .form-NUEVO p{
-    height: 40px;
-    text-align: center;
-    border-bottom: 1px solid;
-  }
   
-  .form-NUEVO  a{
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-    font-size: 14px;
-  }
   
   
